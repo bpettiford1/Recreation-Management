@@ -1,9 +1,15 @@
+<section>
+    <h1>Welcome to Recreation Management</h1>
+    <p>Your hub for exciting recreational activities and events!</p>
+    <img src="images/basketball-kids.jpg" alt="Kids playing basketball" class="hero-img">
+</section>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recreation Management</title>
+    <title>Recreation Manager | Home</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -20,12 +26,12 @@
     <main>
         <section>
             <h1>Welcome to Recreation Management</h1>
-            <p>Providing exceptional recreational programs for all ages.</p>
-            <img src="images/recreation.jpg" alt="Recreation Image">
+            <p>Your hub for exciting recreational activities and events!</p>
+            <img src="images/recreation.jpg" alt="Recreation activities" class="hero-img">
         </section>
     </main>
     <footer>
         <p>&copy; 2024 Recreation Management. All rights reserved.</p>
     </footer>
 </body>
-</html>
+</html> 

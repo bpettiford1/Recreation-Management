@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us</title>
+    <title>Recreation Manager | About</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -20,7 +20,8 @@
     <main>
         <section>
             <h1>About Us</h1>
-            <p>At Recreation Management, we specialize in creating engaging programs for all ages.</p>
+            <p>We specialize in managing recreational activities that bring communities together. From sports leagues to summer camps, we provide a variety of programs for all ages.</p>
+            <img src="images/about.jpg" alt="Teamwork in recreation">
         </section>
     </main>
     <footer>
